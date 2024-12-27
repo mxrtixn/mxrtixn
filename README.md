@@ -1,8 +1,8 @@
-<h1 align="left"> HELLO !!</h1>
+<h1 align="left"> WELCOME Evryone!!</h1>
 
 ###
 
-<p align="left">My name is Abdelbasset Bouziti and I'm a data engineering & AI student , from Morocco.</p>
+<p align="left">My name is EL MANOUZI Hamza and I'm a data engineering & AI student , from Morocco.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">  -I enjoy good music and delicious food.</p>
+<p align="left">  -I enjoy metal music and energy drinks.</p>
 
 ###
 
