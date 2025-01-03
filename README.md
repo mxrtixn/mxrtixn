@@ -1,4 +1,4 @@
-<h1 align="left"> WELCOME Evryone!!</h1>
+<h1 align="left"> WELCOME Everyone!!</h1>
 
 ###
 
