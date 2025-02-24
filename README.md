@@ -13,6 +13,8 @@
  🔭 I’m currently working on **BLING**
  
  🌱 I’m currently learning **Python, Java(OOP), SQL**
+ 
+ ⚡ I'm looking for a **internship of 1 month** 
 
 
  </div>
