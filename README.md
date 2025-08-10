@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **BLING**
+ 🔭 I’m currently working on **TaskTogether**
  
- 🌱 I’m currently learning **Python, Java(OOP), SQL**
+ 🌱 I’m currently learning **Pandas, Numpy, Matplotlib, REACT**
  
- ⚡ I'm looking for a one-month **observation internship** 
+ ⚡ 
 
 
  </div>
