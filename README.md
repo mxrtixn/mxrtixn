@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **TaskTogether**
  
- 🌱 I’m currently learning **Sickit-learn, Data Structure in C, Big Data, NoSQL
+ 🌱 I’m currently learning **Scikit-learn, Data Structure in C, Big Data, NoSQL**
  
  ⚡ 
 
