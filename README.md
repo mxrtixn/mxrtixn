@@ -13,6 +13,10 @@
  🔭 I’m currently working on **TaskTogether**
  
  🌱 I’m currently learning **Scikit-learn, Data Structure in C, Big Data, NoSQL**
+
+ 🎯 I am looking for a **technical end-of-study internship** to apply my skills in **data engineering and artificial intelligence**
+
+ 
  
  ⚡ 
 
@@ -20,7 +24,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:elmanouzi.ha@gmail.com">
+  <a href="mailto:h.elmanouzi@gmail.com"</a>
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/hamza-el-manouzi-a42a9a34a/" target="_blank">
