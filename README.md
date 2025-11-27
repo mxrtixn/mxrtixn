@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **TaskTogether**
  
- 🌱 I’m currently learning **Pandas, Numpy, Matplotlib, REACT**
+ 🌱 I’m currently learning **Sickit-learn, Data Structure in C, Big Data, NoSQL
  
  ⚡ 
 
