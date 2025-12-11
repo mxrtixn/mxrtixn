@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **TaskTogether**
  
- 🌱 I’m currently learning **Scikit-learn, Data Structure in C, Big Data, NoSQL**
+ 🌱 I’m currently learning **Scikit-learn, WebDev, Data Analysis**
 
  🎯 I am looking for a **technical end-of-study internship** to apply my skills in **data engineering and artificial intelligence**
 
@@ -48,27 +48,23 @@
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <br><br>
-
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" />
+  <img height="48" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <br><br>
-
+  
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
   <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
-  <br><br>
-
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" />
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" /> 
   <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" />
   <br><br>
-
-  <img height="48" src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" />
-
 </div>
 
 
