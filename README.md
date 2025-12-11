@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **TaskTogether**
  
- 🌱 I’m currently learning **Scikit-learn, WebDev, Data Analysis**
+ 🌱 I’m currently learning **WebDev, Data Analysis**
 
  🎯 I am looking for a **technical end-of-study internship** to apply my skills in **data engineering and artificial intelligence**
 
