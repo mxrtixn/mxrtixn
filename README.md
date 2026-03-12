@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **VocaHire**
  
- 🌱 I’m currently learning **WebDev, Data Analysis**
+ 🌱 I’m currently learning **NLP, XAI**
 
  🎯 I am looking for a **technical end-of-study internship** to apply my skills in **data engineering and artificial intelligence**
 
